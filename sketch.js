@@ -12,8 +12,8 @@ const LINE_HEIGHT = 100;
 const POLICE_Y_POSITION = CANVAS_WIDTH / 2;
 const POLICE_MOVE_STEP = 4;
 const POLICE_WIDTH = 60; // width of police car
-const BARCODE_LEFT = "4260192960124";
-const BARCODE_RIGHT = "4260192960087";
+const BARCODE_LEFT = "left";
+const BARCODE_RIGHT = "right";
 
 // ------------------------------
 // 🧩 VARIABLES

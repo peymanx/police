@@ -8,8 +8,8 @@ A simple and fun 2D game built with p5.js where you control a police car moving 
 
 ## 🎮 How to Play
 
-- **Move Left** → Press `→` key or scan barcode `4260192960124`
-- **Move Right** → Press `←` key or scan barcode `4260192960087`
+- **Move Left** → Press `→` key or scan barcode `left`
+- **Move Right** → Press `←` key or scan barcode `right`
 - **Goal**: Avoid hitting any incoming cars.
 - The game ends if the police car collides with any vehicle.
 
